@@ -1,0 +1,13 @@
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\WNS\obj\Debug\netcoreapp3.1\WNS.csprojAssemblyReference.cache
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\WNS\obj\Debug\netcoreapp3.1\WNS.AssemblyInfoInputs.cache
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\WNS\obj\Debug\netcoreapp3.1\WNS.AssemblyInfo.cs
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\WNS\obj\Debug\netcoreapp3.1\WNS.csproj.CoreCompileInputs.cache
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\WNS\bin\Debug\netcoreapp3.1\WNS.exe
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\WNS\bin\Debug\netcoreapp3.1\WNS.deps.json
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\WNS\bin\Debug\netcoreapp3.1\WNS.runtimeconfig.json
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\WNS\bin\Debug\netcoreapp3.1\WNS.runtimeconfig.dev.json
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\WNS\bin\Debug\netcoreapp3.1\WNS.dll
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\WNS\bin\Debug\netcoreapp3.1\WNS.pdb
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\WNS\obj\Debug\netcoreapp3.1\WNS.dll
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\WNS\obj\Debug\netcoreapp3.1\WNS.pdb
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\WNS\obj\Debug\netcoreapp3.1\WNS.genruntimeconfig.cache

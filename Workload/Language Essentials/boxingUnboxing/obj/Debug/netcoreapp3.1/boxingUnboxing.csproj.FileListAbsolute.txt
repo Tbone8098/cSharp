@@ -1,0 +1,13 @@
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\boxingUnboxing\obj\Debug\netcoreapp3.1\boxingUnboxing.csprojAssemblyReference.cache
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\boxingUnboxing\obj\Debug\netcoreapp3.1\boxingUnboxing.AssemblyInfoInputs.cache
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\boxingUnboxing\obj\Debug\netcoreapp3.1\boxingUnboxing.AssemblyInfo.cs
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\boxingUnboxing\obj\Debug\netcoreapp3.1\boxingUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\boxingUnboxing\bin\Debug\netcoreapp3.1\boxingUnboxing.exe
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\boxingUnboxing\bin\Debug\netcoreapp3.1\boxingUnboxing.deps.json
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\boxingUnboxing\bin\Debug\netcoreapp3.1\boxingUnboxing.runtimeconfig.json
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\boxingUnboxing\bin\Debug\netcoreapp3.1\boxingUnboxing.runtimeconfig.dev.json
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\boxingUnboxing\bin\Debug\netcoreapp3.1\boxingUnboxing.dll
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\boxingUnboxing\bin\Debug\netcoreapp3.1\boxingUnboxing.pdb
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\boxingUnboxing\obj\Debug\netcoreapp3.1\boxingUnboxing.dll
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\boxingUnboxing\obj\Debug\netcoreapp3.1\boxingUnboxing.pdb
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\boxingUnboxing\obj\Debug\netcoreapp3.1\boxingUnboxing.genruntimeconfig.cache
