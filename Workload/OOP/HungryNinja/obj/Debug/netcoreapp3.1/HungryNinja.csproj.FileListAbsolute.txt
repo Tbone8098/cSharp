@@ -1,0 +1,13 @@
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.csprojAssemblyReference.cache
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.AssemblyInfoInputs.cache
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.AssemblyInfo.cs
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.csproj.CoreCompileInputs.cache
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\HungryNinja\bin\Debug\netcoreapp3.1\HungryNinja.exe
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\HungryNinja\bin\Debug\netcoreapp3.1\HungryNinja.deps.json
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\HungryNinja\bin\Debug\netcoreapp3.1\HungryNinja.runtimeconfig.json
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\HungryNinja\bin\Debug\netcoreapp3.1\HungryNinja.runtimeconfig.dev.json
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\HungryNinja\bin\Debug\netcoreapp3.1\HungryNinja.dll
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\HungryNinja\bin\Debug\netcoreapp3.1\HungryNinja.pdb
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.dll
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.pdb
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\OOP\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.genruntimeconfig.cache

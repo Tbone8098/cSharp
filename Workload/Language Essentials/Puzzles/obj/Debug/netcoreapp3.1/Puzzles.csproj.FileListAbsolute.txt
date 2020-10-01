@@ -1,0 +1,13 @@
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.csprojAssemblyReference.cache
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.AssemblyInfoInputs.cache
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.AssemblyInfo.cs
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.csproj.CoreCompileInputs.cache
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.exe
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.deps.json
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.runtimeconfig.json
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.runtimeconfig.dev.json
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.dll
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.pdb
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.dll
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.pdb
+C:\Users\thiba\Documents\projects\codingDojo\C#\Workload\Language Essentials\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.genruntimeconfig.cache
