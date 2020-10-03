@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Projects</title>
+        <link rel="stylesheet" href="~/css/style.css">
+    </head>
+    <body>
+        <nav>
+            <ul>
+                <li>
+                    <a href="/">Home</a>
+                </li>
+                <li>
+                    |
+                </li>
+                <li>
+                    <a href="/projects">Projects</a>
+                </li>
+                <li>
+                    |
+                </li>
+                <li>
+                    <a href="/contacts">Contacts</a>
+                </li>
+            </ul>
+        </nav>
+        <div class="wrapper">
+            <h2>Here are some Projects of mine!</h2>
+            <div class="content">
+                @{
+                    foreach(var item in ViewBag.projectsList){
+                        <div class="object">
+                            <img src="~/img/@item.urlLocation" alt="@item.urlLocation">
+                            <p>@item.name</p>
+                            <p>@item.desc</p>
+                            
+                        </div>
+                    }
+                }
+            </div>
+        </div>
+    </body>
+</html>

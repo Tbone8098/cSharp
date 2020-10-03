@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+<body>
+    <div class="wrapper">
+            <h1>Dojo Forms</h1>
+        <div class="content">
+            <form action="getForm" method="POST">
+                <section>
+                    <label for="name">Name:</label>
+                    <input type="text" name="name" id="name">
+                </section>
+                <section>
+                    <label for="dojoLoc">Dojo Location:</label>
+                    <select name="dojoLoc" id="dojoLoc">
+                        <option value="Seattle">Seattle</option>
+                        <option value="Denver">Denver</option>
+                    </select>
+                </section>
+                <section>
+                    <label for="favLang">Favorite Language</label>
+                    <select name="favLang" id="favLang">
+                        <option value="Python">Python</option>
+                        <option value="C#">C#</option>
+                        <option value="JavaScript">JavaScript</option>
+                    </select>
+                </section>
+                <label for="comments">Comments (optional)</label>
+                <textarea name="comments" id="comments" cols="30" rows="10"></textarea>
+                <button>Submit</button>
+            </form>
+    
+        </div>
+    </div>
+</body>
+</html>
