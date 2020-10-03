@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+}
+
+.wrapper {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}
+.content {
+    margin-top: 1em;
+    padding: 10px;
+    border: 1px solid black;
+}
+.content section {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    width: 20vw;
+}
+
+form {
+    display: flex;
+    flex-flow: column nowrap;
+}

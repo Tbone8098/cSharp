@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    /* outline: 1px dotted green; */
+}
+
+.wrapper {
+    margin-top: 3em;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    margin-top: 1em;
+    padding: 1em;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    border: 2px solid black;
+}
+
+.content p {
+    font-size: larger;
+}

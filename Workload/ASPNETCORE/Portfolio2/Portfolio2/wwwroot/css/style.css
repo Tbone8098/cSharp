@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    /* outline: 1px dotted green; */
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+}
+
+ul li {
+    margin-left: 1rem;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+.moose {
+    width: 10vw;
+}
+
+.wrapper {
+    margin-top: 2rem;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper-column {
+    margin: 5vw;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.wrapper-left {
+    margin-right: 5vw;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    width: 20vw;
+}
+.wrapper-right {
+    margin-left: 5vw;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    width: 20vw;
+}
+
+.object {
+    margin-top: 1rem;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    justify-self: center;
+    align-items: center;
+    width: 50vw;
+}
+
+.object img {
+    width: 100px;
+}
+
+.contactForm {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.contactForm section {
+    margin: 1rem;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.contactForm section span {
+    margin: 1rem;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+}
